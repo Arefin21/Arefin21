@@ -14,9 +14,9 @@ Here are some ideas to get you started:
   <div>  </div>
 <h3 align="left">💻 Languages and Tools</h3>
 <div align="center"> 
-    <img src="https://img.shields.io/badge/PHP%23B7178C.svg?style=flat&logo=reactivex&logoColor=white" alt="RxJS">
+    <img src="https://img.shields.io/badge/PHP-%23B7178C.svg?style=flat&logo=reactivex&logoColor=white" alt="RxJS">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/HTML%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
     <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" alt="Firebase">
     <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7" alt="Netlify">
