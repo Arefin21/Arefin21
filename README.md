@@ -8,9 +8,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on : 
 - 🌱 I’m currently learning: DB Design, Laravel & Back-End technology
 - 💬 Ask me about Backend management
-- 📫 How to reach me: Facebook: arefin.shagor69
-- 😄 Pronouns: Are fin
-- ⚡ Fun fact: 69 , Hang-Out with Girls
+- ⓕ reach me: Facebook: arefin.shagor69
+- 🚴 Fun fact: Cycling 
   <div>  </div>
 <h3 align="left">💻 Languages and Tools</h3>
 
