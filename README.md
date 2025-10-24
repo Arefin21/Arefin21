@@ -5,11 +5,17 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on : 
-- 🌱 I’m currently learning: DB Design, Laravel & Back-End technology
-- 💬 Ask me about Backend management
-- ⓕ reach me: Facebook: arefin.shagor69
-- 🚴 Fun fact: Cycling 
+🔭 I’m currently working on: Laravel
+
+🌱 I’m currently learning: Database Design, React, and Front-End Technologies
+
+💬 Ask me about: Backend Management
+
+ⓕ Reach me on Facebook: arefin.shagor69
+
+💼 Connect with me on LinkedIn: in/arefinshagor
+
+🚴 Fun fact: I love cycling!
   <div>  </div>
 <h3 align="left">💻 Languages and Tools</h3>
 
